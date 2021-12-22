@@ -8,7 +8,7 @@ const Footer = () => {
             <footer className="footer">
                 <div className="footer-left col-md-4 col-sm-6">
                     <p className="about">
-                        <span>Your Dream Car</span> We offers a new, safe and convenient way of selling your car throughout the Arab world. Use our free car valuation service regardless of make and model to determine the best used car price. Take advantage of the professional and gratis car inspection and the fast car buying service by SellAnyCar.com - the perfect alternative to time-consuming and tiring advertisements.
+                        <span>Auction Site</span> We offers a new, safe and convenient way of selling your Product throughout the world. Use our free Product valuation service regardless of make and model to determine the best used Product price. Take advantage of the professional and gratis Product inspection and the fast Product buying service by SellAnyProduct.com - the perfect alternative to time-consuming and tiring advertisements.
                     </p>
 
                 </div>
@@ -27,14 +27,14 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer-right col-md-4 col-sm-6">
-                    <h2><span>Your Dream Car</span></h2>
+                    <h2><span>Auction Site</span></h2>
                     <p className="menu">
                         <Link to="/home">Home</Link>
                         <Link to="/about">About</Link>
                         <Link to="/home">Products</Link>
                         <Link to="/home">Contact</Link>
                     </p>
-                    <p className="name"> Your Dream Car &copy; 2021</p>
+                    <p className="name">Auction Site &copy; 2021</p>
                 </div>
             </footer>
         </div>
